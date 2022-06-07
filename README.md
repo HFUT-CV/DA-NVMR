@@ -9,6 +9,7 @@ Simulated night-time images are sampled from CompCars[1] dataset, then corrected
 --------------------------------------------------------------------------------------------------------
 R-NVID Dataset Description:
 
+
 Images of two domains (night-time and daytime), which came from on-road real time surveillance systems. 
 
 Because the images came from on-road real time surveillance systems are private, we only provide 200 sample images for public. If you need more data, you must contact 252781411@qq.com and promise that you will only use the data for research, not for commercial or other purposes, and promise not to disseminate the dataset privately.
